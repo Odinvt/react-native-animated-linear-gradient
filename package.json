@@ -1,6 +1,6 @@
 {
   "name": "react-native-odinvt-animated-linear-gradient",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Animated linear gradient as background animation or other. Fork for RN 47+ compatibility",
   "main": "index.js",
   "scripts": {
