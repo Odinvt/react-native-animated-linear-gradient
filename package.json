@@ -1,7 +1,7 @@
 {
-  "name": "react-native-animated-linear-gradient",
-  "version": "1.0.2",
-  "description": "Animated linear gradient as background animation or other.",
+  "name": "react-native-odinvt-animated-linear-gradient",
+  "version": "2.0.0",
+  "description": "Animated linear gradient as background animation or other. Fork for RN 47+ compatibility",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,9 +25,10 @@
   },
   "homepage": "https://github.com/heineiuo/react-native-animated-linear-gradient#readme",
   "dependencies": {
-    "react": "^15.4.2",
-    "react-native": "^0.42.0",
-    "react-native-linear-gradient": "^2.0.0",
+    "react": "^16.0.0-beta.5",
+    "react-native": "^0.49.3",
+    "prop-types": "15.5.10",
+    "react-native-linear-gradient": "^2.2.0",
     "rgb2hex": "^0.1.0"
   }
 }
